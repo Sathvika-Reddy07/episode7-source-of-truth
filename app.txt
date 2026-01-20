@@ -1,1 +1,1 @@
-Version 1: Initial release
+Version 2: Bug fix applied
